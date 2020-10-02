@@ -1,0 +1,18 @@
+{
+    "name": "pc/parser-kz-index",
+    "authors": [
+        {
+            "name": "VeR",
+            "email": "vesystem32@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.1",
+        "simple-html-dom/simple-html-dom": "^1.5",
+        "paquettg/php-html-parser": "^3.1"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    }
+}

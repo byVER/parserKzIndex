@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb212cce-9db6-4647-a7e0-30a4905fb30c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectId" id="1iJbArqy3TpOPeuc8b5fTDQJIKD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VeRGroup/crm-nobleui" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb212cce-9db6-4647-a7e0-30a4905fb30c" name="Default Changelist" comment="" />
+      <created>1601628501729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601628501729</updated>
+      <workItem from="1601628503109" duration="19725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2248" y="323" key="#SQL_Dialects" timestamp="1601633601449">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2248" y="323" key="#SQL_Dialects/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601633601449" />
+    <state x="2476" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601628770846">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2476" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601628770846" />
+    <state x="782" y="118" key="#xdebugger.evaluate" timestamp="1601648702096">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="782" y="118" key="#xdebugger.evaluate/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601648702096" />
+    <state width="508" height="618" key="DebuggerActiveHint" timestamp="1601644243939">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="508" height="618" key="DebuggerActiveHint/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601644243939" />
+    <state width="1874" height="320" key="GridCell.Tab.0.bottom" timestamp="1601648771796">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601648771796" />
+    <state width="1874" height="320" key="GridCell.Tab.0.center" timestamp="1601648771796">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601648771796" />
+    <state width="1874" height="320" key="GridCell.Tab.0.left" timestamp="1601648771796">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601648771796" />
+    <state width="1874" height="320" key="GridCell.Tab.0.right" timestamp="1601648771796">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601648771796" />
+    <state width="1874" height="320" key="GridCell.Tab.1.bottom" timestamp="1601648771797">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601648771797" />
+    <state width="1874" height="320" key="GridCell.Tab.1.center" timestamp="1601648771796">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601648771796" />
+    <state width="1874" height="320" key="GridCell.Tab.1.left" timestamp="1601648771796">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601648771796" />
+    <state width="1874" height="320" key="GridCell.Tab.1.right" timestamp="1601648771796">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601648771796" />
+    <state width="1874" height="320" key="GridCell.Tab.2.bottom" timestamp="1601648771797">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.2.bottom/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601648771797" />
+    <state width="1874" height="320" key="GridCell.Tab.2.center" timestamp="1601648771797">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.2.center/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601648771797" />
+    <state width="1874" height="320" key="GridCell.Tab.2.left" timestamp="1601648771797">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.2.left/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601648771797" />
+    <state width="1874" height="320" key="GridCell.Tab.2.right" timestamp="1601648771797">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="320" key="GridCell.Tab.2.right/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601648771797" />
+    <state x="2700" y="229" key="NewPhpClassDialog" timestamp="1601630945622">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2700" y="229" key="NewPhpClassDialog/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601630945622" />
+    <state x="2698" y="446" key="NewPhpFileDialog" timestamp="1601629593685">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2698" y="446" key="NewPhpFileDialog/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601629593685" />
+    <state width="960" height="526" key="XDebugger.FullValuePopup" timestamp="1601648794474">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="960" height="526" key="XDebugger.FullValuePopup/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601648794474" />
+    <state x="2782" y="399" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1601628761847">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2782" y="399" key="com.intellij.database.actions.DdlActions$CreateObject$1/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601628761847" />
+    <state x="2781" y="406" width="331" height="265" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1601636738037">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2781" y="406" width="331" height="265" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601636738037" />
+    <state x="2749" y="236" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1601628779252">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2749" y="236" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601628779252" />
+    <state x="2544" y="240" key="run.anything.popup" timestamp="1601633694267">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="240" key="run.anything.popup/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601633694267" />
+    <state x="2543" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1601646766660">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="232" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1052@1920.0.1920.1080" timestamp="1601646766660" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App.php</url>
+          <line>224</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
